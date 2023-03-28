@@ -83,7 +83,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
                 setSelectedPage={setSelectedPage}
               />
               <Link
-                page="Skills"
+                page="Beliefs"
                 selectedPage={selectedPage}
                 setSelectedPage={setSelectedPage}
               />
